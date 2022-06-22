@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\obuchenie\urok01\bin\Debug\net6.0\urok01.exe
+C:\Users\Asus\Desktop\obuchenie\urok01\bin\Debug\net6.0\urok01.deps.json
+C:\Users\Asus\Desktop\obuchenie\urok01\bin\Debug\net6.0\urok01.runtimeconfig.json
+C:\Users\Asus\Desktop\obuchenie\urok01\bin\Debug\net6.0\urok01.dll
+C:\Users\Asus\Desktop\obuchenie\urok01\bin\Debug\net6.0\urok01.pdb
+C:\Users\Asus\Desktop\obuchenie\urok01\obj\Debug\net6.0\urok01.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\obuchenie\urok01\obj\Debug\net6.0\urok01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\obuchenie\urok01\obj\Debug\net6.0\urok01.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\obuchenie\urok01\obj\Debug\net6.0\urok01.AssemblyInfo.cs
+C:\Users\Asus\Desktop\obuchenie\urok01\obj\Debug\net6.0\urok01.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\obuchenie\urok01\obj\Debug\net6.0\urok01.dll
+C:\Users\Asus\Desktop\obuchenie\urok01\obj\Debug\net6.0\refint\urok01.dll
+C:\Users\Asus\Desktop\obuchenie\urok01\obj\Debug\net6.0\urok01.pdb
+C:\Users\Asus\Desktop\obuchenie\urok01\obj\Debug\net6.0\urok01.genruntimeconfig.cache
+C:\Users\Asus\Desktop\obuchenie\urok01\obj\Debug\net6.0\ref\urok01.dll
